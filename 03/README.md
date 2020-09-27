@@ -1,5 +1,5 @@
 ## Geração da cateira
-Utilizei o pacote NBitcoin para gerar a wallet
+Utilizei o pacote NBitcoin com c# para gerar a wallet
 
 * publicKey: `0382d926256cee53a94ff3e2ffc882de17f45209ac1b93150b14d53efdb80b10c5`
 * address: `mxknA2bAcSSLxPUDvNhMuzdfHkFw8isrNo`
@@ -19,5 +19,11 @@ Amount: 0.001
 ```
 
 ![Primeiro deposito](2.png)
+
+![Detalhes](3.png)
+
+![Entradas](4.png)
+
+![Saidas](5.png)
 
 Tentei rodar o código ruby dos slides mas não consegui ;-;
