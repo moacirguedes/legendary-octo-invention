@@ -5,7 +5,7 @@ Utilizei o pacote NBitcoin para gerar a wallet
 * address: `mxknA2bAcSSLxPUDvNhMuzdfHkFw8isrNo`
 * privateKey: `Kx8Bivqvyb8nR4HcsxZXkxfGiY4eckZnXuqzZjtt2EvMRdyryr1T`
 
-![Criação da carteira](1.jpg)
+![Criação da carteira](1.png)
 
 ## Depósito:
 O faceut do slide não funcionou, pelo menos não comigo então para o despósito foi utilizado o `https://testnet-faucet.mempool.co`
@@ -18,6 +18,6 @@ Address: mxknA2bAcSSLxPUDvNhMuzdfHkFw8isrNo
 Amount: 0.001
 ```
 
-![Primeiro deposito](2.jpg)
+![Primeiro deposito](2.png)
 
 Tentei rodar o código ruby dos slides mas não consegui ;-;
